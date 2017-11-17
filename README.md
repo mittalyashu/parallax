@@ -10,4 +10,4 @@ Description - Creates a parallax effect between an array of layers, driving the 
 
 I've put a lot of time and effort into coding **Parallax.js** file. If you love it, you can buy me a coffee. I promise it will be a good investment 😉.
 
-**Donate with:** [PayPal][https://www.paypal.me/mittalyashu].
+**Donate with:** [PayPal](https://www.paypal.me/mittalyashu).
