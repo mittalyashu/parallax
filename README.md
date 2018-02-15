@@ -6,7 +6,7 @@ Demo: [Click here](http://codecarrot.net/404.html) to see the demo.
 
 Description - Creates a parallax effect between an array of layers, driving the motion from the gyroscope output of a smartdevice. If no gyroscope is available, the cursor position is used.
 
-## Help me! To continue manange this project
+## Help me! To continue manage this project
 
 I've put a lot of time and effort into coding **Parallax.js** file. If you love it, you can buy me a coffee. I promise it will be a good investment 😉.
 
